@@ -1,0 +1,32 @@
+.lesson-wrapper {
+  height: 600px;
+  background-color: #f7f7f7;
+  text-align: center;
+  padding-bottom:30px;
+}
+
+.heading {
+  padding-top: 60px;
+  color: #5f5d60;
+}
+
+.heading h1 {
+  font-size:50px;
+}
+
+.lesson {
+  float: left;
+  width: 50%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 180px;
+  left:160px;
+  width: 50%;
+  color: black;
+}
